@@ -1,0 +1,4 @@
+opencv-python
+opencv_contrib-python
+face_recognition
+numpy
